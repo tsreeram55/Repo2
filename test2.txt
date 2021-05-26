@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9289-BAEE
+
+ Directory of C:\Users\DELL\Desktop\MyProject
+
+05/27/2021  02:51 AM    <DIR>          .
+05/27/2021  02:51 AM    <DIR>          ..
+05/25/2021  01:37 PM               405 index.html
+05/25/2021  01:35 PM                16 test.txt
+05/27/2021  02:51 AM                 0 test2.txt
+               3 File(s)            421 bytes
+               2 Dir(s)  66,965,286,912 bytes free
